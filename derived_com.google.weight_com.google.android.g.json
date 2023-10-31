@@ -1,0 +1,9 @@
+{
+    "Data Source": "derived:com.google.weight:com.google.android.gms:merge_weight",
+    "Data Points": [
+        {"fitValue":[{"value":{"fpVal":97}}],"originDataSourceId":"raw:com.google.weight:com.google.android.apps.fitness:user_input","endTimeNanos":1625441823122000000,"dataTypeName":"com.google.weight","startTimeNanos":1625441823122000000,"modifiedTimeMillis":1625442555036,"rawTimestampNanos":0},
+        {"fitValue":[{"value":{"fpVal":96.19999694824219}}],"originDataSourceId":"raw:com.google.weight:com.google.android.apps.fitness:user_input","endTimeNanos":1625829785920000000,"dataTypeName":"com.google.weight","startTimeNanos":1625829785920000000,"modifiedTimeMillis":1625829797626,"rawTimestampNanos":0},
+        {"fitValue":[{"value":{"fpVal":96.19999694824219}}],"originDataSourceId":"raw:com.google.weight:com.xiaomi.hm.health:GoogleFitSyncHelper - weight","endTimeNanos":1625829991468000000,"dataTypeName":"com.google.weight","startTimeNanos":1625829991468000000,"modifiedTimeMillis":1625830760427,"rawTimestampNanos":0},
+        {"fitValue":[{"value":{"fpVal":96.5999984741211}}],"originDataSourceId":"raw:com.google.weight:com.google.android.apps.fitness:user_input","endTimeNanos":1625904580078000000,"dataTypeName":"com.google.weight","startTimeNanos":1625904580078000000,"modifiedTimeMillis":1625904592191,"rawTimestampNanos":0}
+    ]
+}
